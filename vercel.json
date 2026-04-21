@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Santhoshkumar_Mechanical_Design_Portfolio.html" }
+  ]
+}
